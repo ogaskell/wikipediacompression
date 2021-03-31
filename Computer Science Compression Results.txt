@@ -1,0 +1,735 @@
+Compressing 'Technology transfer in computer science'
+Success!
+== Approx Sizes ==
+Source size:  482 Bytes
+Output size:  495 Bytes
+  Dict size:  359 Bytes
+  Key size:   136 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~102%
+
+Compressing 'Visual computing'
+Success!
+== Approx Sizes ==
+Source size:  6140 Bytes
+Output size:  5162 Bytes
+  Dict size:  3362 Bytes
+  Key size:   1800 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~84%
+
+Compressing 'Philosophy of computer science'
+Success!
+== Approx Sizes ==
+Source size:  4594 Bytes
+Output size:  4176 Bytes
+  Dict size:  2769 Bytes
+  Key size:   1407 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~90%
+
+Compressing 'Quaject'
+Success!
+== Approx Sizes ==
+Source size:  1881 Bytes
+Output size:  1943 Bytes
+  Dict size:  1331 Bytes
+  Key size:   612 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~103%
+
+Compressing 'Critical code studies'
+Success!
+== Approx Sizes ==
+Source size:  1599 Bytes
+Output size:  1671 Bytes
+  Dict size:  1171 Bytes
+  Key size:   500 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~104%
+
+Compressing 'Computational social choice'
+Success!
+== Approx Sizes ==
+Source size:  5425 Bytes
+Output size:  4712 Bytes
+  Dict size:  3080 Bytes
+  Key size:   1632 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~86%
+
+Compressing 'Computer science in sport'
+Success!
+== Approx Sizes ==
+Source size:  7724 Bytes
+Output size:  6434 Bytes
+  Dict size:  4043 Bytes
+  Key size:   2391 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~83%
+
+Compressing 'Trace cache'
+Success!
+== Approx Sizes ==
+Source size:  6817 Bytes
+Output size:  5417 Bytes
+  Dict size:  3157 Bytes
+  Key size:   2260 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~79%
+
+Compressing 'Instance selection'
+Success!
+== Approx Sizes ==
+Source size:  3597 Bytes
+Output size:  2882 Bytes
+  Dict size:  1752 Bytes
+  Key size:   1130 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~80%
+
+Compressing 'Viola–Jones object detection framework'
+Success!
+== Approx Sizes ==
+Source size:  10856 Bytes
+Output size:  9165 Bytes
+  Dict size:  5673 Bytes
+  Key size:   3492 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~84%
+
+Compressing 'Reduction Operator'
+Success!
+== Approx Sizes ==
+Source size:  12734 Bytes
+Output size:  9827 Bytes
+  Dict size:  5526 Bytes
+  Key size:   4301 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~77%
+
+Compressing 'Social cloud computing'
+Success!
+== Approx Sizes ==
+Source size:  3825 Bytes
+Output size:  3471 Bytes
+  Dict size:  2291 Bytes
+  Key size:   1180 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~90%
+
+Compressing 'Transition (computer science)'
+Success!
+== Approx Sizes ==
+Source size:  5010 Bytes
+Output size:  4390 Bytes
+  Dict size:  2914 Bytes
+  Key size:   1476 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~87%
+
+Compressing 'Symbolic execution'
+Success!
+== Approx Sizes ==
+Source size:  6906 Bytes
+Output size:  5881 Bytes
+  Dict size:  3578 Bytes
+  Key size:   2303 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~85%
+
+Compressing 'Software'
+Success!
+== Approx Sizes ==
+Source size:  20742 Bytes
+Output size:  16287 Bytes
+  Dict size:  9875 Bytes
+  Key size:   6412 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~78%
+
+Compressing 'Machine learning in bioinformatics'
+Success!
+== Approx Sizes ==
+Source size:  8983 Bytes
+Output size:  7116 Bytes
+  Dict size:  4413 Bytes
+  Key size:   2703 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~79%
+
+Compressing 'Lempel-Ziv complexity'
+Success!
+== Approx Sizes ==
+Source size:  7211 Bytes
+Output size:  6195 Bytes
+  Dict size:  3822 Bytes
+  Key size:   2373 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~85%
+
+Compressing 'Quantum image processing'
+Success!
+== Approx Sizes ==
+Source size:  6600 Bytes
+Output size:  5747 Bytes
+  Dict size:  3807 Bytes
+  Key size:   1940 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~87%
+
+Compressing 'Computational human modeling'
+Success!
+== Approx Sizes ==
+Source size:  846 Bytes
+Output size:  876 Bytes
+  Dict size:  666 Bytes
+  Key size:   210 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~103%
+
+Compressing 'Boolean'
+Success!
+== Approx Sizes ==
+Source size:  1387 Bytes
+Output size:  1391 Bytes
+  Dict size:  970 Bytes
+  Key size:   421 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~100%
+
+Compressing 'Nuclear computation'
+Success!
+== Approx Sizes ==
+Source size:  2983 Bytes
+Output size:  2436 Bytes
+  Dict size:  1487 Bytes
+  Key size:   949 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~81%
+
+Compressing 'Supnick matrix'
+Success!
+== Approx Sizes ==
+Source size:  1508 Bytes
+Output size:  1464 Bytes
+  Dict size:  915 Bytes
+  Key size:   549 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~97%
+
+Compressing 'Jaro–Winkler distance'
+Success!
+== Approx Sizes ==
+Source size:  4220 Bytes
+Output size:  3590 Bytes
+  Dict size:  2195 Bytes
+  Key size:   1395 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~85%
+
+Compressing 'Literal (computer programming)'
+Success!
+== Approx Sizes ==
+Source size:  2385 Bytes
+Output size:  2336 Bytes
+  Dict size:  1568 Bytes
+  Key size:   768 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~97%
+
+Compressing 'Matching wildcards'
+Success!
+== Approx Sizes ==
+Source size:  7331 Bytes
+Output size:  6451 Bytes
+  Dict size:  4151 Bytes
+  Key size:   2300 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~87%
+
+Compressing 'Krauss wildcard-matching algorithm'
+Success!
+== Approx Sizes ==
+Source size:  2878 Bytes
+Output size:  2656 Bytes
+  Dict size:  1746 Bytes
+  Key size:   910 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~92%
+
+Compressing 'Prefetching'
+Success!
+== Approx Sizes ==
+Source size:  911 Bytes
+Output size:  994 Bytes
+  Dict size:  712 Bytes
+  Key size:   282 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~109%
+
+Compressing 'Virtual environment'
+Success!
+== Approx Sizes ==
+Source size:  875 Bytes
+Output size:  934 Bytes
+  Dict size:  661 Bytes
+  Key size:   273 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~106%
+
+Compressing 'CLEVER score'
+Success!
+== Approx Sizes ==
+Source size:  387 Bytes
+Output size:  484 Bytes
+  Dict size:  366 Bytes
+  Key size:   118 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~125%
+
+Compressing 'Reachability analysis'
+Success!
+== Approx Sizes ==
+Source size:  9089 Bytes
+Output size:  6781 Bytes
+  Dict size:  3706 Bytes
+  Key size:   3075 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~74%
+
+Compressing 'Programmer'
+Success!
+== Approx Sizes ==
+Source size:  12533 Bytes
+Output size:  10481 Bytes
+  Dict size:  6643 Bytes
+  Key size:   3838 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~83%
+
+Compressing 'OpenCV'
+Success!
+== Approx Sizes ==
+Source size:  5156 Bytes
+Output size:  5040 Bytes
+  Dict size:  3458 Bytes
+  Key size:   1582 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~97%
+
+Compressing 'Information and computer science'
+Success!
+== Approx Sizes ==
+Source size:  8814 Bytes
+Output size:  7233 Bytes
+  Dict size:  4497 Bytes
+  Key size:   2736 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~82%
+
+Compressing 'Reactive synthesis'
+Success!
+== Approx Sizes ==
+Source size:  651 Bytes
+Output size:  710 Bytes
+  Dict size:  511 Bytes
+  Key size:   199 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~109%
+
+Compressing 'Computer science'
+Success!
+== Approx Sizes ==
+Source size:  31670 Bytes
+Output size:  24213 Bytes
+  Dict size:  14999 Bytes
+  Key size:   9214 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~76%
+
+Compressing 'K-D heap'
+Success!
+== Approx Sizes ==
+Source size:  1950 Bytes
+Output size:  1895 Bytes
+  Dict size:  1198 Bytes
+  Key size:   697 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~97%
+
+Compressing 'Outline of computer science'
+Success!
+== Approx Sizes ==
+Source size:  8128 Bytes
+Output size:  6972 Bytes
+  Dict size:  4689 Bytes
+  Key size:   2283 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~85%
+
+Compressing 'List of Turing Award laureates by university affiliation'
+Success!
+== Approx Sizes ==
+Source size:  5462 Bytes
+Output size:  4420 Bytes
+  Dict size:  2772 Bytes
+  Key size:   1648 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~80%
+
+Compressing 'Agnostic (data)'
+Success!
+== Approx Sizes ==
+Source size:  6867 Bytes
+Output size:  5184 Bytes
+  Dict size:  2843 Bytes
+  Key size:   2341 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~75%
+
+Compressing 'Bidirectional transformation'
+Success!
+== Approx Sizes ==
+Source size:  2554 Bytes
+Output size:  2388 Bytes
+  Dict size:  1594 Bytes
+  Key size:   794 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~93%
+
+Compressing 'Computational politics'
+Success!
+== Approx Sizes ==
+Source size:  1096 Bytes
+Output size:  1193 Bytes
+  Dict size:  851 Bytes
+  Key size:   342 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~108%
+
+Compressing 'Faculty of Computer and Information Science, Ljubljana'
+Success!
+== Approx Sizes ==
+Source size:  1285 Bytes
+Output size:  1170 Bytes
+  Dict size:  796 Bytes
+  Key size:   374 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~91%
+
+Compressing 'Spatial computing'
+Success!
+== Approx Sizes ==
+Source size:  984 Bytes
+Output size:  1121 Bytes
+  Dict size:  805 Bytes
+  Key size:   316 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~113%
+
+Compressing 'Computer science education'
+Success!
+== Approx Sizes ==
+Source size:  2173 Bytes
+Output size:  2025 Bytes
+  Dict size:  1332 Bytes
+  Key size:   693 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~93%
+
+Compressing 'The MICCAI Society'
+Success!
+== Approx Sizes ==
+Source size:  6342 Bytes
+Output size:  5173 Bytes
+  Dict size:  3304 Bytes
+  Key size:   1869 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~81%
+
+Compressing 'Digital signal processing'
+Success!
+== Approx Sizes ==
+Source size:  9898 Bytes
+Output size:  7853 Bytes
+  Dict size:  4915 Bytes
+  Key size:   2938 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~79%
+
+Compressing 'Informatics engineering'
+Success!
+== Approx Sizes ==
+Source size:  443 Bytes
+Output size:  462 Bytes
+  Dict size:  340 Bytes
+  Key size:   122 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~104%
+
+Compressing 'Information theory'
+Success!
+== Approx Sizes ==
+Source size:  31451 Bytes
+Output size:  23981 Bytes
+  Dict size:  14186 Bytes
+  Key size:   9795 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~76%
+
+Compressing 'Computational science'
+Success!
+== Approx Sizes ==
+Source size:  17802 Bytes
+Output size:  14484 Bytes
+  Dict size:  9559 Bytes
+  Key size:   4925 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~81%
+
+Compressing 'Neural network Gaussian process'
+Success!
+== Approx Sizes ==
+Source size:  10999 Bytes
+Output size:  8206 Bytes
+  Dict size:  4838 Bytes
+  Key size:   3368 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~74%
+
+Compressing 'Large width limits of neural networks'
+Success!
+== Approx Sizes ==
+Source size:  2302 Bytes
+Output size:  2085 Bytes
+  Dict size:  1411 Bytes
+  Key size:   674 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~90%
+
+Compressing 'Linux kernel'
+Success!
+== Approx Sizes ==
+Source size:  56166 Bytes
+Output size:  39764 Bytes
+  Dict size:  21206 Bytes
+  Key size:   18558 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~70%
+
+Compressing 'Human City Interaction'
+Success!
+== Approx Sizes ==
+Source size:  1213 Bytes
+Output size:  1250 Bytes
+  Dict size:  901 Bytes
+  Key size:   349 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~103%
+
+Compressing 'Operating system'
+Success!
+== Approx Sizes ==
+Source size:  57045 Bytes
+Output size:  37929 Bytes
+  Dict size:  19713 Bytes
+  Key size:   18216 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~66%
+
+Compressing 'Kernel (operating system)'
+Success!
+== Approx Sizes ==
+Source size:  21689 Bytes
+Output size:  15392 Bytes
+  Dict size:  8486 Bytes
+  Key size:   6906 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~70%
+
+Compressing 'Computational tools for artificial intelligence'
+Success!
+== Approx Sizes ==
+Source size:  1276 Bytes
+Output size:  1379 Bytes
+  Dict size:  964 Bytes
+  Key size:   415 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~108%
+
+Compressing 'Computer science and engineering'
+Success!
+== Approx Sizes ==
+Source size:  2210 Bytes
+Output size:  1989 Bytes
+  Dict size:  1426 Bytes
+  Key size:   563 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~90%
+
+Compressing 'Bachelor of Computer Science'
+Success!
+== Approx Sizes ==
+Source size:  5363 Bytes
+Output size:  4618 Bytes
+  Dict size:  3111 Bytes
+  Key size:   1507 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~86%
+
+Compressing 'Polling (computer science)'
+Success!
+== Approx Sizes ==
+Source size:  6311 Bytes
+Output size:  5406 Bytes
+  Dict size:  3280 Bytes
+  Key size:   2126 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~85%
+
+Compressing 'Abstraction (computer science)'
+Success!
+== Approx Sizes ==
+Source size:  24145 Bytes
+Output size:  18245 Bytes
+  Dict size:  10800 Bytes
+  Key size:   7445 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~75%
+
+Compressing 'Integer (computer science)'
+Success!
+== Approx Sizes ==
+Source size:  9184 Bytes
+Output size:  7402 Bytes
+  Dict size:  4273 Bytes
+  Key size:   3129 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~80%
+
+Compressing 'Heuristic (computer science)'
+Success!
+== Approx Sizes ==
+Source size:  8755 Bytes
+Output size:  7676 Bytes
+  Dict size:  4843 Bytes
+  Key size:   2833 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~87%
+
+Compressing 'Macro (computer science)'
+Success!
+== Approx Sizes ==
+Source size:  11622 Bytes
+Output size:  10001 Bytes
+  Dict size:  6274 Bytes
+  Key size:   3727 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~86%
+
+Compressing 'AP Computer Science'
+Success!
+== Approx Sizes ==
+Source size:  2226 Bytes
+Output size:  1905 Bytes
+  Dict size:  1208 Bytes
+  Key size:   697 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~85%
+
+Compressing 'Computer graphics (computer science)'
+Success!
+== Approx Sizes ==
+Source size:  7517 Bytes
+Output size:  6720 Bytes
+  Dict size:  4542 Bytes
+  Key size:   2178 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~89%
+
+Compressing 'Elements of AI'
+Success!
+== Approx Sizes ==
+Source size:  2678 Bytes
+Output size:  2651 Bytes
+  Dict size:  1780 Bytes
+  Key size:   871 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~98%
+
+Compressing '4D vector'
+Success!
+== Approx Sizes ==
+Source size:  2619 Bytes
+Output size:  2644 Bytes
+  Dict size:  1845 Bytes
+  Key size:   799 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~100%
+
+Compressing 'Glossary of computer science'
+Success!
+== Approx Sizes ==
+Source size:  453 Bytes
+Output size:  520 Bytes
+  Dict size:  382 Bytes
+  Key size:   138 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~114%
+
+Compressing 'Information processing'
+Success!
+== Approx Sizes ==
+Source size:  10475 Bytes
+Output size:  9069 Bytes
+  Dict size:  5807 Bytes
+  Key size:   3262 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~86%
+
+Compressing 'Stewart Nelson'
+Success!
+== Approx Sizes ==
+Source size:  1401 Bytes
+Output size:  1468 Bytes
+  Dict size:  1030 Bytes
+  Key size:   438 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~104%
+
+Compressing 'Psychoinformatics'
+Success!
+== Approx Sizes ==
+Source size:  943 Bytes
+Output size:  1008 Bytes
+  Dict size:  761 Bytes
+  Key size:   247 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~106%
+
+Compressing 'Adenike Osofisan'
+Success!
+== Approx Sizes ==
+Source size:  4329 Bytes
+Output size:  4016 Bytes
+  Dict size:  2649 Bytes
+  Key size:   1367 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~92%
+
+Compressing 'Ajayendra Urmila Tripathi'
+Success!
+== Approx Sizes ==
+Source size:  423 Bytes
+Output size:  508 Bytes
+  Dict size:  398 Bytes
+  Key size:   110 Bytes (using 8bit unsigned ints)
+
+Compression Ratio: ~120%
+
+==== FINAL RESULTS ====
+Total Source size:  562529 Bytes
+Total Output size:  449213 Bytes
+
+Compression Ratio: ~79%

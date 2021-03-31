@@ -1,0 +1,175 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.36.0-wmf.36</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Repetition (music)</title>
+    <ns>0</ns>
+    <id>7466250</id>
+    <revision>
+      <id>1002054090</id>
+      <parentid>1001644441</parentid>
+      <timestamp>2021-01-22T16:44:44Z</timestamp>
+      <contributor>
+        <username>1234qwer1234qwer4</username>
+        <id>20836525</id>
+      </contributor>
+      <minor/>
+      <comment>Comment out vorbis=1 while [[phab:T257066]] (score extension disabled) is resolved per [[Special:Diff/1002031937|request]], replaced: vorbis="1" → %vorbis="1"%%T257066%</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="14496" xml:space="preserve">{{More citations needed|date=April 2020}}
+[[File:repeatsign.svg|thumb|100px|[[Repeat sign]]]]
+{{Image frame|content=&lt;score %vorbis="1"%%T257066% lang="lilypond"&gt;
+    {
+#(set-global-staff-size 14)
+\time 2/4
+\new PianoStaff &lt;&lt;
+\new Staff { \relative c' { \key f \major
+\partial 8 &lt;a
+ c f a&gt;8_!\p^\markup{ \bold "Allegro" } | &lt;c f a c&gt;4_! r8 \tuplet 3/2 8 { c'16( b d) }
+c4-! r8 &lt;c, f a&gt;_! &lt;c g' bes&gt;4_! r8 \tuplet 3/2 { bes'16( a c) } bes4-! r8 bes \bar "||" } }
+\new Staff { \relative c, { \key f \major \clef "bass"
+\partial 8 &lt;f c' f&gt;8_! | &lt;f c' f&gt;4_! r r r8 &lt;f c' f&gt;8_! &lt;e c' e&gt;4_! r \compressFullBarRests R1*2/4 \bar "||" } } &gt;&gt;
+ }
+&lt;/score&gt;|width=310|caption=Motivic repetition in [[Ludwig van Beethoven|Beethoven]]'s [[Piano Sonata No. 6 (Beethoven)|Sonata in F Major, op. 10 no. 2]]}}
+
+'''Repetition''' is important in [[music]], where sounds or sequences are often [[wiktionary:repeat#Verb|repeated]].   It may be called '''restatement''', such as the restatement of a [[theme (music)|theme]].  While it plays a role in all music, with [[noise]] and musical tones lying along a spectrum from irregular to [[frequency|periodic]] sounds,(Moravcsik, 114)(Rajagopal, {{page needed|date=May 2011}}) it is especially prominent in specific styles.
+__TOC__
+
+==Repetition==
+A literal repetition of a musical passage is often indicated by the use of a [[repeat sign]], or the instructions [[da capo]] or [[dal segno]].
+
+{{quote|Repetition is a part and parcel of [[Symmetry#In music|symmetry]]—and of establishing [[Motif (music)|motifs]] and [[hook (music)|hooks]]. You find a melodic or rhythmic figure that you like, and you repeat it throughout the course of the [[melody]] or [[song]]. This sort of repetition...helps to unify your melody; it's the melodic equivalent of a steady drumbeat, and serves as an identifying factor for listeners. However, too much of a good thing can get annoying. If you repeat your figure too often, it will start to bore the listener.|(Miller, 106)}}
+
+{{Quote|Memory affects the music-listening experience so profoundly that it would not be hyperbole to say that without memory there would be no music. As scores of theorists and philosophers have noted...music is based on repetition. Music works because we remember the tones we have just heard and are relating them to the ones that are just now being played. Those groups of tones—phrases—might come up later in the piece in a variation or transposition that tickles our memory system at the same time as it activates our emotional centers...(Levitin, 162-163)}}
+
+[[File:Volta music.PNG|thumb|100px|Repeat sign with first and second endings]]
+[[Theodor Adorno]] criticized repetition and [[popular music]] as being psychotic and infantile. In contrast, [[Richard Middleton (musicologist)|Richard Middleton]] (1990) argues that "while repetition is a feature of ''all'' music, of any sort, a high level of repetition may be a specific mark of 'the popular'" and that this allows an, "enabling" of "an inclusive rather than exclusive audience"(Middleton 1990, p.&amp;nbsp;139). "There is no universal norm or convention" for the amount or type of repetition, "all music contains repetition - but in differing amounts and of an enormous variety of types." This is influenced by "the political economy of production; the 'psychic economy' of individuals; the musico-technological media of production and reproduction (oral, written, electric); and the weight of the syntactic conventions of music-historical traditions" (Middleton 1990, p.&amp;nbsp;268).
+
+[[File:SegnoTeken.svg|thumb|75px|[[Dal segno|Segno]]]]
+Thus Middleton (also 1999) distinguishes between [[discourse|discursive]] and musematic repetition. A [[museme]] is a minimal unit of meaning, analogous to [[morpheme]] in linguistics, and musematic repetition is "at the level of the short [[figure (music)|figure]], often used to generate an entire [[musical form|structural framework]]." Discursive repetition is "at the level of the phrase or [[section (music)|section]], which generally functions as part of a larger-scale 'argument'." He gives "paradigmatic case[s]": the [[riff]] and the [[phrase (music)|phrase]]. Musematic repetition includes circularity, [[Synchronization|synchronic]] relations, and openness. Discursive repetition includes linearity, rational control, and self-sufficiency. Discursive repetition is most often nested ([[hierarchically]]) in larger repetitions and may be thought of as sectional, while musematic repetition may be thought of as [[Additive map|additive]]. (p.&amp;nbsp;146-8) Put more simply, musematic repetition is simple repetition of precisely the same musical figure, such as a repeated [[refrain|chorus]]. Discursive repetition is, "both repetitive and non-repetitive," (Lott, p.&amp;nbsp;174), such as the repetition of the same rhythmic figure with different notes.
+
+During the [[Classical era]], musical [[concert]]s were highly expected events, and because someone who liked a piece of music could not listen to it again, musicians had to think of a way to make the music sink in. Therefore, they would repeat parts of their song at times, making music like [[sonata]] very repetitive, without being dull.(Bowen)
+
+Repetition is important in [[musical form]]. The repetition of any section of ternary form results in [[ternary form|expanded ternary form]] and in binary form the repetition of the first section at the end of the second results in [[binary form|rounded binary form]].(Benward &amp; Saker, 315) [[Heinrich Schenker|Schenker]] argued that [[musical technique]]'s, "most striking and distinctive characteristic" is repetition (Kivy, 327) while [[Pierre Boulez|Boulez]] argues that a high level of interest in repetition and variation ([[analogy]] and [[Différance|difference]], [[Recall (memory)|recognition]] and the unknown) is characteristic of all musicians, especially [[contemporary classical music|contemporary]], and the [[dialectic]] [conversation] between the two creates musical form.(Campbell, 154)
+
+[[File:Au clair de la lune repetition.png|thumb|"Au clair de la lune", repetition after digression.(Copland &amp; Slatkin) {{audio|Au clair de la lune repetition.mid|Play}}]]
+[[File:Ach! due lieber Augustin repetition.png|thumb|left|"Ach! du lieber Augustin", repetition after digression.(Copland &amp; Slatkin) {{audio|Ach! due lieber Augustin repetition.mid|Play}}]]
+[[File:The Seeds of Love repetition.png|thumb|"The Seeds of Love" (English folk song), nonrepetition.(Copland &amp; Slatkin) {{audio|The Seeds of Love repetition.mid|Play}}]]
+
+Types of repetition include "exact repetition" (aaa), "repetition after digression" (aba or aba'), and "nonrepetition" (abcd). [[Aaron Copland|Copland]] and [[Leonard Slatkin|Slatkin]] offer "[[Au clair de la lune]]" and "[[Ach! du lieber Augustin]]" {{audio|O du lieber Augustin.ogg|Play}} as examples of aba, and "The Seeds of Love" as an example of the last.([https://books.google.com/books?id=xRI18t1I6xEC&amp;printsec=frontcover&amp;dq=Copland,+Aaron+%26+Slatkin,+Leonard+(2011).+What+to+Listen+for+in+Music&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj35Y-ltYnRAhUqxoMKHT1sB8QQ6AEIGjAA#v=onepage&amp;q=repetition&amp;f=false Copland &amp; Slatkin, {{unpaginated|date=December 2016}}])
+
+At the tone level, repetition creates a [[drone (music)|drone]].
+
+==Repetitive music==
+{{See also|Ostinato}}
+Some music features a relatively high degree of repetition in its [[musical composition|creation]] or [[Music criticism|reception]]. Examples include [[minimalist music]], [[krautrock]], [[disco]] (and its later derivatives such as [[house music]]), some [[techno]], some of [[Igor Stravinsky]]'s compositions, [[barococo]] and the [[Suzuki method]]. (Fink 2005, p.&amp;nbsp;5)
+
+Other important genres with repetitive songwriting are [[post rock]], [[Ambient music|ambient]]/[[dark ambient]]&lt;ref&gt;[http://www.spiderbytes.com/ambientrance/at-saw2.htm Aphex Twin:Selected Ambient Works Volume II]&lt;/ref&gt; and [[black metal]].&lt;ref&gt;{{cite web|url=https://www.nytimes.com/2009/11/17/arts/music/17shrine.html|title=Repetitive Guitar Strums Rooted in Metal but Not Confined by It|date=November 16, 2009|author=Ben Ratliff|work=The New York Times}}&lt;/ref&gt;
+
+===Psychological interpretations===
+Repetitive music has often been negatively linked with [[Freud]]ian [[Death drive|thanatos]]. [[Theodor Adorno]] (1948, p.&amp;nbsp;178) provides an example in his criticism of [[Igor Stravinsky]], whose, "rhythmic procedures [[ostinato]] closely resemble the schema of catatonic conditions. In certain [[schizophrenia|schizophrenics]], the process by which the motor apparatus becomes independent leads to infinite repetition of gestures or words, following the decay of the ego." Similar criticism was levelled at [[Ravel's Bolero]].
+
+[[Wim Mertens]] (1980, p.&amp;nbsp;123-124) argues that "In repetitive music, repetition in the service of the [[death instinct]] prevails. Repetition is not repetition of identical elements, so it is not reproduction, but the repetition of the identical in another guise. In traditional music, repetition is a device for creating recognizability, reproduction for the sake of the music notes of that specific line and the representing [[Id, ego and super-ego#Ego|ego]]. In repetitive music, repetition does not refer to [[Eros (love)|eros]] and the ego, but to the [[libido]] and to the death instinct."
+
+Repetitive music has also been linked with [[Jacques Lacan|Lacan]]ian [[jouissance]]. [[David Schawrz]] (1992, p.&amp;nbsp;134) argues that the repetition in [[John Coolidge Adams|John Adams]]'s ''[[Nixon in China (opera)|Nixon in China]]'' is "trapping listeners in a narrow acoustic corridor of [[the Real]]" while [[Naomi Cumming]] (1997, p.&amp;nbsp;129–152) argues that the repetitive string ostinatos of [[Steve Reich]]'s ''[[Different Trains]]'' are "prearticulate" pieces of the Real providing a refuge from the [[Holocaust]] and its "horror of identification."
+
+===Genres that use repetitive music===
+DJs at [[disco]] clubs in the 1970s played a smooth mix of long single disco records to keep people dancing all night long. The twelve-inch single was popularized as a means to this end. While [[disco]] songs do have some repetitive elements, such as a persistent throbbing beat, these repetitive elements were counterbalanced by the musical variety provided by orchestral arrangements and [[disco mix]]es that added different sound textures to the music, ranging from a full, orchestral sound to stripped-down break sections.
+
+The [[electronic dance music]] genres that followed disco in the 1980s and 1990s, such as [[house music]] and [[techno]] kept the bass drum rhythm introduced by disco but did not use the orchestral arrangements or horn sections. House and techno had a more minimalist sound that layered electronic sounds and samples over a drum machine drum part and a repetitive synth bass bassline.
+
+Extremely repetitive song structures are also used by some [[black metal]] bands like [[Burzum]],&lt;ref&gt;[http://www.markprindle.com/burzum.htm Burzum]&lt;/ref&gt; [[Darkthrone]], [[Forgotten Woods]], [[Lustre (musical project)|Lustre]] and [[Striborg]].
+
+==See also==
+{{div col}}
+*[[Cycle (music)]]
+*[[Groove (music)]]
+*[[Imitation (music)]]
+*[[Melodic pattern]]
+*[[Ostinato]]
+*[[Paradigmatic analysis]]
+*[[Drone music]]
+*[[Repeat sign]]
+*[[Reprise]]
+*[[Sequence (music)]]
+*[[Abbreviation (music)]]
+{{div col end}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*Adorno, Theodor (1948). ''The Philosophy of Modern Music''. Trans. Anne G. Mitchell and Wesley V. Blomster (1973). Cited in Fink 2005.
+*Benward &amp; Saker (2003). ''Music: In Theory and Practice, Vol. I''. Seventh Edition. {{ISBN|978-0-07-294262-0}}.
+*{{cite web|last=Bowen|first=Nathan|title=Double Expositions and the use of repetition in Classical Music|url=http://nb23.com/blog/?p=328|work=Nathan Bowen's Blog|publisher=Blog Archive|access-date=6 March 2011}}
+*Campbell, Edward (2010). ''Boulez, Music and Philosophy''. {{ISBN|978-0-521-86242-4}}. Cites Boulez 2005b, 156 and 239.
+*Copland, Aaron &amp; Slatkin, Leonard (2011). ''What to Listen for in Music''. {{ISBN|978-1-101-51314-9}}.
+*Cumming, Naomi (1997). "The Horrors of Identification: Reich's ''Different Trains''" ''Perspectives of New Music'' 35, no. I (winter).
+*Fink, Robert (2005). ''Repeating Ourselves: American Minimal Music as Cultural Practice''. {{ISBN|0-520-24550-4}}.
+*[[Peter Kivy|Kivy, Peter]] (1993). ''The Fine Art of Repetition: Essays in the Philosophy of Music''. {{ISBN|978-0-521-43598-7}}.
+*Levitin, Daniel J. (2007). ''This is Your Brain on Music: The Science of a Human Obsession''. {{ISBN|978-0-452-28852-2}}.
+*Lott, Eric (1993). ''Love and Theft: Blackface Minstrelsy and the American Working Class''. Oxford University Press. {{ISBN|0-19-509641-X}}. Cited in Middleton.
+*Margulis, Elizabeth Hellmuth (2013). [http://global.oup.com/academic/product/on-repeat-9780199990825 "On Repeat: How Music Plays the Mind."] Oxford University Press. {{ISBN|978-0199990825}}.
+*Mertens, Wim (1980/1983/1988). ''American Minimal Music'', trans. J. Hautekiet. {{ISBN|0-912483-15-6}}. Cited in Fink 2005.
+*Middleton, Richard (1990/2002). ''Studying Popular Music''. Philadelphia: Open University Press. {{ISBN|0-335-15275-9}}.
+*Middleton, Richard (1999). "Form". ''Key Terms in Popular Music and Culture'', Horner, Bruce and Swiss, Thomas, eds. Malden, Massachusetts. {{ISBN|0-631-21263-9}}.
+*Miller, Michael (2005). ''The Complete Idiot's Guide to Music Theory''. {{ISBN|978-1-59257-437-7}}.
+*Moravcsik, Michael J. (2001). ''Musical Sound: An Introduction to the Physics of Music''. {{ISBN|978-0-306-46710-3}}.
+*[[Oswald Jonas|Jonas, Oswald]] (1982). ''Introduction to the Theory of Heinrich Schenker'' (1934: ''Das Wesen des musikalischen Kunstwerks: Eine Einführung in Die Lehre Heinrich Schenkers''). Trans. John Rothgeb. {{ISBN|0-582-28227-6}}.
+*Rajagopal, K. (2007). ''Engineering Physics''. {{ISBN|978-81-203-3286-7}}.
+*Schwarz, David (1992). "Postmodernism, the Subject, and the Real in John Adams's ''Nixon in China''" ''Indiana Theory Review'' 13, no. 2 (fall). Cited in Fink 2005.
+
+==Further reading==
+*Attali, Jacques (1977/1985). "Repeating" ''Noise''. {{ISBN|0-8166-1287-0}}.
+*Julien, Olivier  &amp; Levaux, Christophe (ed.) (2018). ''Over and Over. Exploring Repetition in Popular Music''.  Bloomsbury Academic.  {{ISBN|9781501324888}}.
+*Margulis, Elizabeth Hellmuth (2014). ''On repeat: How music plays the mind''. Oxford University Press. {{ISBN|978-0199990825}}.
+{{Minimal music}}
+{{Musical form}}
+
+[[Category:Repetition (music)| ]]</text>
+      <sha1>tt0xxso97iwrmn1p1jw2klcoguhgg1c</sha1>
+    </revision>
+  </page>
+</mediawiki>
