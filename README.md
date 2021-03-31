@@ -17,3 +17,8 @@ Compression Ratio: ~79%
 ```
 
 Some articles did increase in size and had compression ratios over 100% so with some optimisiation the overall ratio could definitely be improved.
+
+## Usage
+To run the program, you need an XML file exported from wikipedia. Wikipedia has a page where you can download these [here](https://en.wikipedia.org/wiki/Special:Export). However I have included a few files which I have tested the program on, in the `source files` directory. The `source.xml` file in the root directory is simply a copy of the `computerscience(category).xml` file in this folder.
+
+To run the program on an xml file, simply move it into the root directory of the repository and rename it to `source.xml`. The program will then operate on this file.
